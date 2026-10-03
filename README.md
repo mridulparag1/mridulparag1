@@ -119,7 +119,7 @@
      <strong>AWS Certified Solutions Architect - Associate</strong>
    </td>
    <td align="center">
-      <a href="https://www.credly.com/badges/0e543f4e-2044-4e87-88a1-9b85875ec4ad" target="_blank">
+      <a href="https://www.credly.com/badges/69674d60-47c2-4eb1-9908-83880f80af2e" target="_blank">
      <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-DevOps-Engineer-Professional_badge.7492bf660b5351e51f3f8015e4818924294a7e8c.png" width="100" />
      <br>
      <strong>AWS Certified DevOps Engineer – Professional</strong>
@@ -129,6 +129,18 @@
      <img src="https://images.credly.com/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/twitter_thumb_201604_image.png" width="100" />
      <br>
      <strong>HashiCorp Certified: Terraform Associate (004)</strong>
+   </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/0e543f4e-2044-4e87-88a1-9b85875ec4ad" target="_blank">
+     <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="100" />
+     <br>
+     <strong>CKA: Certified Kubernetes Administrator</strong>
+   </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/0e543f4e-2044-4e87-88a1-9b85875ec4ad" target="_blank">
+     <img src="https://images.credly.com/size/680x680/images/7583afbc-4aab-4c7d-8af4-d9af72786ab3/blob" width="100" />
+     <br>
+     <strong>Claude Certified Architect - Professional</strong>
    </td>
  </tr>
 </table>
