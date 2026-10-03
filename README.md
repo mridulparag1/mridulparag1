@@ -137,7 +137,7 @@
      <strong>CKA: Certified Kubernetes Administrator</strong>
    </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/0e543f4e-2044-4e87-88a1-9b85875ec4ad" target="_blank">
+      <a href="https://www.credly.com/earner/earned/badge/59f2c640-0356-426a-bc1a-75d5d14db3b6" target="_blank">
      <img src="https://images.credly.com/size/680x680/images/7583afbc-4aab-4c7d-8af4-d9af72786ab3/blob" width="100" />
      <br>
      <strong>Claude Certified Architect - Professional</strong>
