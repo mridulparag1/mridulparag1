@@ -113,7 +113,7 @@
      <strong>AWS Certified Cloud Practitioner (CLF-C02)</strong>
    </td>
    <td align="center">
-      <a href="https://www.credly.com/badges/0e543f4e-2044-4e87-88a1-9b85875ec4ad" target="_blank">
+      <a href="https://www.credly.com/badges/69674d60-47c2-4eb1-9908-83880f80af2e" target="_blank">
      <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" />
      <br>
      <strong>AWS Certified Solutions Architect - Associate</strong>
