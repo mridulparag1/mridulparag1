@@ -110,7 +110,7 @@
       <a href="https://www.credly.com/badges/0e543f4e-2044-4e87-88a1-9b85875ec4ad" target="_blank">
      <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" />
      <br>
-     <strong>AWS Certified Cloud Practitioner (CLF-C02)</strong>
+     <strong>AWS Certified Cloud Practitioner</strong>
    </td>
    <td align="center">
       <a href="https://www.credly.com/badges/69674d60-47c2-4eb1-9908-83880f80af2e" target="_blank">
