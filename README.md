@@ -125,6 +125,12 @@
      <strong>AWS Certified DevOps Engineer – Professional</strong>
    </td>
    <td align="center">
+      <a href="https://www.credly.com/badges/69674d60-47c2-4eb1-9908-83880f80af2e" target="_blank">
+     <img src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/twitter_thumb_201604_image.png" width="100" />
+     <br>
+     <strong>AWS Certified Security – Specialty</strong>
+   </td>
+   <td align="center">
       <a href="https://www.credly.com/badges/0e543f4e-2044-4e87-88a1-9b85875ec4ad" target="_blank">
      <img src="https://images.credly.com/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/twitter_thumb_201604_image.png" width="100" />
      <br>
